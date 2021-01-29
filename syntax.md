@@ -30,3 +30,8 @@ for un-ordered list
 # Links
 [any text](url)
 [github class notes](https://github.com/public-apis/public-apis)
+
+#images
+![alt](image url)
+![error image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0q2BL0I-vB1cV242MONT0o&ust=1612001671792000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDH0an0wO4CFQAAAAAdAAAAABAD)
+

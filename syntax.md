@@ -35,3 +35,22 @@ for un-ordered list
 ![alt](image url)
 ![error image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0q2BL0I-vB1cV242MONT0o&ust=1612001671792000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDH0an0wO4CFQAAAAAdAAAAABAD)
 
+# Code Blocks
+```python
+s = "python variable"
+```
+
+```javascript
+var s = "javascript variable"
+```
+
+```
+without language
+```
+
+```html
+<html>
+    <head>
+        <title>something</title>
+    </head
+</html>

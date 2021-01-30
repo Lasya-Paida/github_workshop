@@ -54,3 +54,19 @@ without language
         <title>something</title>
     </head
 </html>
+```
+
+# Tables
+| table | head1 | head2 |
+|----|----|----|
+| data1 | data2 | data3 |
+| data4 | data5 | data6 |
+
+table | head1 | head2 
+-----|-----|-----
+**data1** | _data2_ | data3
+data4 | data5 | data6
+
+# Block quotes
+
+> this is block quote

@@ -70,3 +70,20 @@ data4 | data5 | data6
 # Block quotes
 
 > this is block quote
+
+# horizontal rule
+
+8765435678765
+
+9876543567809876
+-----
+98760
+
+jhgfdfghj
+*****
+kjhgfdesdf
+kjh
+____
+lkjhjkl
+
+kitrdfghj
